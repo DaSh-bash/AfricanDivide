@@ -1,0 +1,249 @@
+populations v2.53, executed 2021-03-04 12:08:00 (zlib-1.2.7)
+/sw/bioinfo/Stacks/2.53/rackham/bin/populations -P /proj/uppstore2017185/b2014034_nobackup/Dasha/RAD_Vanessa/2_STACKS_BWA/MigrDivide/STACKS_results/filtered/ -O /proj/uppstore2017185/b2014034_nobackup/Aurora/Migratory_divide/vcfs/ -M /proj/uppstore2017185/b2014034_nobackup/Aurora/Migratory_divide/scripts/popmap1.txt --write-single-snp --ordered-export --threads 10 --vcf --genepop --structure --plink
+Locus/sample distributions will be written to '/proj/uppstore2017185/b2014034_nobackup/Aurora/Migratory_divide/vcfs/populations.log.distribs'.
+populations parameters selected:
+  Percent samples limit per population: 0
+  Locus Population limit: 1
+  Percent samples overall: 0
+  Minor allele frequency cutoff: 0
+  Maximum observed heterozygosity cutoff: 1
+  Applying Fst correction: none.
+  Pi/Fis kernel smoothing: off
+  Fstats kernel smoothing: off
+  Bootstrap resampling: off
+
+Parsing population map...
+The population map contained 355 samples, 4 population(s), 1 group(s).
+Working on 355 samples.
+Working on 4 population(s):
+    SHEA: Ethiopia_14L679, Ethiopia_14L834, Ethiopia_14L847, Ethiopia_14L879, Ethiopia_14L880, Ethiopia_14L881, Ethiopia_14L882, Ethiopia_14L883, 
+          Ethiopia_14L884, Ethiopia_14L885, Ethiopia_14L886, Ethiopia_14L887, Ethiopia_14L888, Ethiopia_14L889, Ethiopia_14L890, Ethiopia_14L891, 
+          Ethiopia_14L892, Ethiopia_14L894, Ethiopia_14L895, Kenya_16E222, Kenya_16E223, Kenya_16E224, Kenya_16E225, Kenya_16E251, 
+          Kenya_DJM07A185, Kenya_DJM07A191, Tanzania_14K873, Tanzania_14K880, Tanzania_14K887, Tanzania_14K907
+    NHEA: Ethiopia_14L359, Ethiopia_14L373, Ethiopia_14U082, Ethiopia_14U087, Ethiopia_14U096, Ethiopia_14U104, Ethiopia_14U125, Ethiopia_14U142, 
+          Ethiopia_14U144, Ethiopia_14U149, Ethiopia_14U193, Ethiopia_14U199, Ethiopia_14U200, Ethiopia_14U286, Ethiopia_14U287, Ethiopia_14U289, 
+          Ethiopia_14U290, Ethiopia_14U291, Ethiopia_14U295, Ethiopia_14U296, Ethiopia_14U297, Ethiopia_14U298, Ethiopia_14U299, Ethiopia_14U300, 
+          Ethiopia_14U301, Ethiopia_14U324, Ethiopia_14U331, Ethiopia_14U333, Ethiopia_14U334, Ethiopia_14U338, Ethiopia_14U339, Ethiopia_14U340, 
+          Ethiopia_14U341, Ethiopia_14U342, Ethiopia_14U343, Ethiopia_14U352, Ethiopia_14U357, Ethiopia_14U358, Ethiopia_14U371, Ethiopia_14U393, 
+          Ethiopia_14U395, Ethiopia_14U396, Ethiopia_14U397, Ethiopia_14U398, Ethiopia_14U399, Ethiopia_14U400
+    SH: Malawi_12R812, Malawi_12R814, Malawi_12R815, Namibia_15A720, Namibia_15A721, Namibia_15A722, Namibia_15A723, Namibia_15A724, 
+        Namibia_15A725, Namibia_15A726, Namibia_15A727, Namibia_15A728, Namibia_15A729, Namibia_15A730, Namibia_15A731, Namibia_15A732, 
+        Namibia_15A733, Namibia_15A734, Namibia_15A735, Namibia_15D002, Namibia_15D003, Namibia_15D097, Namibia_15D326, Namibia_15D327, 
+        Namibia_15D384, Namibia_15D416, Namibia_15D417, Namibia_15D418, Namibia_15D419, Namibia_15D439, Namibia_15D440, Namibia_15D441, 
+        Namibia_15D442, Namibia_15D443, Namibia_15D444, South_07F538, South_07F539, South_07F540, South_07F541, South_07F542, South_07F543, 
+        South_07F544, South_07F545, South_07F546, South_07F547, South_07F548, South_07F549, South_07F550, South_07F551, South_07F552, 
+        South_07F553, South_07F554, South_07F555, South_14B025, South_14B026, South_14B027, South_14B028, South_14B029, South_14B030, 
+        South_NP04B974, South_NP99T477, Zambia_11J827, Zambia_11K174, Zambia_11K610, Zambia_11K611, Zambia_11K612, Zambia_11K613, 
+        Zambia_11K879, Zambia_12R813
+    NHE: Albania_16J474, Albania_16J479, Albania_16J482, Algeria_11J924, Algeria_11J932, Algeria_12N575, Algeria_12N619, Algeria_14B032, 
+         Algeria_14B034, Andalusia_16C400, Andalusia_16C402, Andalusia_16C404, Austria_15G657, Austria_15G872, Austria_15H944, Azerbaijan_14M917, 
+         Azerbaijan_14M918, Benin_14E446, Benin_14T584, Benin_14T587, Benin_14T596, Benin_14T597, Benin_14T638, Benin_14T639, Benin_14T640, 
+         Benin_14T724, Benin_14T725, Benin_14T738, Benin_14T770, Benin_14T860, Benin_14T867, Benin_14T868, Bosnia_14B830, Bosnia_14B839, 
+         Bulgaria_14C748, Bulgaria_14C800, Bulgaria_14C902, Bulgaria_14C960, Canarias_16L307, Canarias_16L308, Canarias_16L309, Canarias_16L315, 
+         Chad_14T052, Chad_14T063, Chad_14T111, Chad_14T130, Chad_14T195, Chad_14T198, Chad_14T240, Chad_14T245, Chad_14T253, Chad_14T312, 
+         Chad_14T320, Chad_14T352, Chad_14T354, Chad_14T378, Chad_14T386, Crete_12M184, Crete_12M186, Crete_12M236, Crete_12M259, 
+         Crete_12M260, Egypt_16E185, Egypt_16E186, Estonia_10A745, Estonia_10A746, Estonia_10A762, Finland_15J795, France_12O100, 
+         France_12P893, France_15F633, France_15J206, France_15J431, Greece_14C482, Greece_14C572, Greece_14H079, Greece_14H343, Greece_14H393, 
+         Iran_16K324, Iran_16K325, Iran_16K326, Iran_16K327, Iran_16K328, Iran_16K329, Iran_16K330, Iran_16K331, Israel_14L414, Israel_14L415, 
+         Israel_16E187, Israel_16E188, Israel_16E190, Israel_16E191, Israel_16E196, Israel_16E197, Israel_16L304, Israel_16L305, Italy_12O537, 
+         Italy_12R352, Italy_13S572, Italy_14I349, Italy_14I463, Italy_14I469, Italy_14N070, Italy_14N645, Italy_14W035, Italy_15A511, 
+         Kaliningrad_15O446, Kaliningrad_15O450, Kaliningrad_15O451, Kaliningrad_15O452, Kaliningrad_15O460, Kaliningrad_15O462, Kazakhstan_11G240, 
+         Kazakhstan_11G241, Kazakhstan_11G320, Kazakhstan_11G321, Kazakhstan_11G362, Kazakhstan_11G870, Kazakhstan_11G951, Kazakhstan_11G952, 
+         Mali_06A107, Malta_10C596, Malta_10C597, Morocco_06A089, Morocco_11F213, Morocco_11F429, Morocco_11F504, Morocco_11F742, 
+         Morocco_11F828, Morocco_11F977, Morocco_12L683, Morocco_12L741, Morocco_12L797, Oman_13S207, Oman_13S234, Oman_13S235, Oman_13S236, 
+         Oman_13S243, Oman_13S244, Poland_16E535, Poland_16E536, Poland_16E537, Poland_16E538, Poland_16E539, Poland_16E540, Poland_16E541, 
+         Poland_16E542, Poland_16E543, Poland_16E545, Portugal_14B160, Portugal_14B421, Portugal_14B525, Romania_12R731, Romania_14C111, 
+         Romania_16D085, Russia_16A391, Russia_16E557, Sardinia_12O537, Senegal_14T967, Senegal_14U004, Senegal_14U016, Senegal_14U019, 
+         Senegal_14U020, Senegal_14U042, Senegal_14U046, Senegal_14U050, Senegal_14U074, Senegal_14U075, Serbia_14E829, Serbia_14E899, 
+         Serbia_14F244, Serbia_16E219, Serbia_16E220, Serbia_16E221, Sicily_12M321, Sicily_16A468, Sicily_16A518, Spain_09V864, Spain_11D929, 
+         Spain_12Q508, Spain_13S259, Spain_13S390, Spain_14K196, Spain_15D678, Spain_15D930, Spain_16D104, Spain_16D185, Sweden_12Q564, 
+         Sweden_14C065, Sweden_16E210, Sweden_16E211, Sweden_16H700, Switzerland_15H949, Switzerland_16E549, Switzerland_16E550, Switzerland_16E551, 
+         Switzerland_16E623, Tenerife_16A390, Tunisia_12N265, Tunisia_12N266, Tunisia_12N495, Tunisia_12N504, Tunisia_13S961, Turkey_07C199, 
+         Turkey_07C218, Turkey_07C220, Turkey_07C268, Turkey_07F223, Turkey_07F276, Ukraine_14B610
+Working on 1 group(s) of populations:
+    defaultgrp: SHEA, NHEA, SH, NHE
+
+SNPs and calls will be written in VCF format to '/proj/uppstore2017185/b2014034_nobackup/Aurora/Migratory_divide/vcfs/populations.snps.vcf'
+Polymorphic sites in GenePop format will be written to '/proj/uppstore2017185/b2014034_nobackup/Aurora/Migratory_divide/vcfs/populations.snps.genepop'
+Polymorphic sites in Structure format will be written to '/proj/uppstore2017185/b2014034_nobackup/Aurora/Migratory_divide/vcfs/populations.structure'
+Polymorphic sites in PLINK format will be written to '/proj/uppstore2017185/b2014034_nobackup/Aurora/Migratory_divide/vcfs/populations.plink.ped'
+Raw haplotypes will be written to '/proj/uppstore2017185/b2014034_nobackup/Aurora/Migratory_divide/vcfs/populations.haplotypes.tsv'
+Population-level summary statistics will be written to '/proj/uppstore2017185/b2014034_nobackup/Aurora/Migratory_divide/vcfs/populations.sumstats.tsv'
+Population-level haplotype summary statistics will be written to '/proj/uppstore2017185/b2014034_nobackup/Aurora/Migratory_divide/vcfs/populations.hapstats.tsv'
+
+Processing data in batches:
+  * load a batch of catalog loci and apply filters
+  * compute SNP- and haplotype-wise per-population statistics
+  * write the above statistics in the output files
+  * export the genotypes/haplotypes in specified format(s)
+More details in '/proj/uppstore2017185/b2014034_nobackup/Aurora/Migratory_divide/vcfs/populations.log.distribs'.
+Now processing...
+tig00000001 
+tig00000003 
+tig00000011 
+tig00000015 
+tig00000016 
+tig00000019 
+tig00000024 
+tig00000025 
+tig00000033 
+tig00000041 
+tig00000043 
+tig00000044 
+tig00000045 
+tig00000050 
+tig00000051 
+tig00000053 
+tig00000057 
+tig00000067 
+tig00000070 
+tig00000072 
+tig00000077 
+tig00000079 
+tig00000080 
+tig00000083 
+tig00000084 
+tig00000096 
+tig00000097 
+tig00000098 
+tig00000101 
+tig00000104 
+tig00000105 
+tig00000107 
+tig00000109 
+tig00000110 
+tig00000111 
+tig00000113 
+tig00000119 
+tig00000121 
+tig00000124 
+tig00000134 
+tig00000135 
+tig00000136 
+tig00000142 
+tig00000145 
+tig00000146 
+tig00000148 
+tig00000155 
+tig00000158 
+tig00000162 
+tig00000165 
+tig00000171 
+tig00000174 
+tig00000177 
+tig00000181 
+tig00000182 
+tig00000187 
+tig00000190 
+tig00000192 
+tig00000201 
+tig00000208 
+tig00000213 
+tig00000215 
+tig00000217 
+tig00000219 
+tig00000224 
+tig00000235 
+tig00000237 
+tig00000240 
+tig00000241 
+tig00000242 
+tig00000243 
+tig00000245 
+tig00000249 
+tig00000252 
+tig00000255 
+tig00000256 
+tig00000258 
+tig00000260 
+tig00000261 
+tig00000270 
+tig00000272 
+tig00000277 
+tig00000288 
+tig00000290 
+tig00000291 
+tig00000293 
+tig00000295 
+tig00000323 
+tig00000325 
+tig00000328 
+tig00000330 
+tig00000333 
+tig00000336 
+tig00000337 
+tig00000346 
+tig00000347 
+tig00000349 
+tig00000355 
+tig00000356 
+tig00000360 
+tig00000361 
+tig00000362 
+tig00000365 
+tig00000373 
+tig00000376 
+tig00000383 
+tig00000392 
+tig00000406 
+tig00000407 
+tig00000409 
+tig00000411 
+tig00000419 
+tig00000426 
+tig00000432 
+tig00000437 
+tig00000445 
+tig00000458 
+tig00000466 
+tig00000468 
+tig00000487 
+tig00000488 
+tig00000490 
+tig00000498 
+tig00000499 
+tig00000507 
+tig00000509 
+tig00000511 
+tig00000512 
+tig00000513 
+tig00000515 
+tig00000528 
+tig00000535 
+tig00000541 
+tig00000542 
+tig00000552 
+tig00000567 
+tig00000585 
+tig00000586 
+tig00000595 
+tig00000604 
+tig00000621 
+tig00000625 
+tig00000673 
+tig00000678 
+tig00000705 
+tig00000721 
+tig00000732 
+tig00000735 
+tig00000752 
+tig00000779 
+tig00000780 
+tig00000781 
+tig00000793 
+tig00000811 
+tig00000919 
+tig00000992 
+tig00001186 
+
+Removed 0 loci that did not pass sample/population constraints from 403425 loci.
+Kept 403425 loci, composed of 114892393 sites; 0 of those sites were filtered, 138722 variant sites remained.
+    98963340 genomic sites, of which 14191303 were covered by multiple loci (14.3%).
+Mean genotyped sites per locus: 224.84bp (stderr 0.13).
+
+Population summary statistics (more detail in populations.sumstats_summary.tsv):
+  SHEA: 8.721 samples per locus; pi: 0.10722; all/variant/polymorphic sites: 53210006/110770/31327; private alleles: 3698
+  NHEA: 11.413 samples per locus; pi: 0.093678; all/variant/polymorphic sites: 48308844/101078/26659; private alleles: 3141
+  SH: 19.172 samples per locus; pi: 0.1416; all/variant/polymorphic sites: 49709980/123955/57585; private alleles: 9784
+  NHE: 52.146 samples per locus; pi: 0.2114; all/variant/polymorphic sites: 75688424/137983/116831; private alleles: 47891
+Populations is done.

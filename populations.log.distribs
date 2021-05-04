@@ -1,0 +1,1904 @@
+# Note: Individual distributions can be extracted using the `stacks-dist-extract` utility.
+#       e.g. `stacks-dist-extract populations.log.distribs dist_name`
+
+BEGIN batch_progress
+tig00000001: analyzed 13403 loci; filtered 0 loci; 13403 loci seen.
+    3407176 genomic sites, of which 489715 were covered by multiple loci (14.4%).
+tig00000003: analyzed 13207 loci; filtered 0 loci; 13207 loci seen.
+    3237081 genomic sites, of which 472041 were covered by multiple loci (14.6%).
+tig00000011: analyzed 12088 loci; filtered 0 loci; 12088 loci seen.
+    3022769 genomic sites, of which 450993 were covered by multiple loci (14.9%).
+tig00000015: analyzed 11197 loci; filtered 0 loci; 11197 loci seen.
+    2833248 genomic sites, of which 392971 were covered by multiple loci (13.9%).
+tig00000016: analyzed 10708 loci; filtered 0 loci; 10708 loci seen.
+    2599798 genomic sites, of which 391538 were covered by multiple loci (15.1%).
+tig00000019: analyzed 9679 loci; filtered 0 loci; 9679 loci seen.
+    2401216 genomic sites, of which 342773 were covered by multiple loci (14.3%).
+tig00000024: analyzed 9320 loci; filtered 0 loci; 9320 loci seen.
+    2335195 genomic sites, of which 349052 were covered by multiple loci (14.9%).
+tig00000025: analyzed 9851 loci; filtered 0 loci; 9851 loci seen.
+    2360630 genomic sites, of which 356821 were covered by multiple loci (15.1%).
+tig00000033: analyzed 790 loci; filtered 0 loci; 790 loci seen.
+    178849 genomic sites, of which 27147 were covered by multiple loci (15.2%).
+tig00000041: analyzed 8794 loci; filtered 0 loci; 8794 loci seen.
+    2220807 genomic sites, of which 316133 were covered by multiple loci (14.2%).
+tig00000043: analyzed 8136 loci; filtered 0 loci; 8136 loci seen.
+    1968177 genomic sites, of which 287730 were covered by multiple loci (14.6%).
+tig00000044: analyzed 8409 loci; filtered 0 loci; 8409 loci seen.
+    2064776 genomic sites, of which 315715 were covered by multiple loci (15.3%).
+tig00000045: analyzed 5544 loci; filtered 0 loci; 5544 loci seen.
+    1312181 genomic sites, of which 171736 were covered by multiple loci (13.1%).
+tig00000050: analyzed 2310 loci; filtered 0 loci; 2310 loci seen.
+    570133 genomic sites, of which 78663 were covered by multiple loci (13.8%).
+tig00000051: analyzed 7814 loci; filtered 0 loci; 7814 loci seen.
+    1957921 genomic sites, of which 280629 were covered by multiple loci (14.3%).
+tig00000053: analyzed 2929 loci; filtered 0 loci; 2929 loci seen.
+    693913 genomic sites, of which 116307 were covered by multiple loci (16.8%).
+tig00000057: analyzed 7403 loci; filtered 0 loci; 7403 loci seen.
+    1834950 genomic sites, of which 284079 were covered by multiple loci (15.5%).
+tig00000067: analyzed 7314 loci; filtered 0 loci; 7314 loci seen.
+    1826514 genomic sites, of which 280662 were covered by multiple loci (15.4%).
+tig00000070: analyzed 5623 loci; filtered 0 loci; 5623 loci seen.
+    1456870 genomic sites, of which 201600 were covered by multiple loci (13.8%).
+tig00000072: analyzed 7003 loci; filtered 0 loci; 7003 loci seen.
+    1773606 genomic sites, of which 247303 were covered by multiple loci (13.9%).
+tig00000077: analyzed 2009 loci; filtered 0 loci; 2009 loci seen.
+    465074 genomic sites, of which 71973 were covered by multiple loci (15.5%).
+tig00000079: analyzed 6986 loci; filtered 0 loci; 6986 loci seen.
+    1693474 genomic sites, of which 243506 were covered by multiple loci (14.4%).
+tig00000080: analyzed 6418 loci; filtered 0 loci; 6418 loci seen.
+    1627187 genomic sites, of which 243059 were covered by multiple loci (14.9%).
+tig00000083: analyzed 6435 loci; filtered 0 loci; 6435 loci seen.
+    1629054 genomic sites, of which 221814 were covered by multiple loci (13.6%).
+tig00000084: analyzed 6286 loci; filtered 0 loci; 6286 loci seen.
+    1626897 genomic sites, of which 212334 were covered by multiple loci (13.1%).
+tig00000096: analyzed 1108 loci; filtered 0 loci; 1108 loci seen.
+    255744 genomic sites, of which 35017 were covered by multiple loci (13.7%).
+tig00000097: analyzed 6039 loci; filtered 0 loci; 6039 loci seen.
+    1478915 genomic sites, of which 214585 were covered by multiple loci (14.5%).
+tig00000098: analyzed 4191 loci; filtered 0 loci; 4191 loci seen.
+    1044596 genomic sites, of which 153171 were covered by multiple loci (14.7%).
+tig00000101: analyzed 2075 loci; filtered 0 loci; 2075 loci seen.
+    525862 genomic sites, of which 76903 were covered by multiple loci (14.6%).
+tig00000104: analyzed 5730 loci; filtered 0 loci; 5730 loci seen.
+    1305359 genomic sites, of which 189641 were covered by multiple loci (14.5%).
+tig00000105: analyzed 3966 loci; filtered 0 loci; 3966 loci seen.
+    994274 genomic sites, of which 134502 were covered by multiple loci (13.5%).
+tig00000107: analyzed 5376 loci; filtered 0 loci; 5376 loci seen.
+    1389526 genomic sites, of which 185846 were covered by multiple loci (13.4%).
+tig00000109: analyzed 5304 loci; filtered 0 loci; 5304 loci seen.
+    1346014 genomic sites, of which 164746 were covered by multiple loci (12.2%).
+tig00000110: analyzed 3727 loci; filtered 0 loci; 3727 loci seen.
+    849075 genomic sites, of which 130212 were covered by multiple loci (15.3%).
+tig00000111: analyzed 4926 loci; filtered 0 loci; 4926 loci seen.
+    1278590 genomic sites, of which 168190 were covered by multiple loci (13.2%).
+tig00000113: analyzed 3045 loci; filtered 0 loci; 3045 loci seen.
+    731307 genomic sites, of which 116724 were covered by multiple loci (16.0%).
+tig00000119: analyzed 5429 loci; filtered 0 loci; 5429 loci seen.
+    1287816 genomic sites, of which 192132 were covered by multiple loci (14.9%).
+tig00000121: analyzed 4778 loci; filtered 0 loci; 4778 loci seen.
+    1227883 genomic sites, of which 148439 were covered by multiple loci (12.1%).
+tig00000124: analyzed 5376 loci; filtered 0 loci; 5376 loci seen.
+    1320937 genomic sites, of which 202874 were covered by multiple loci (15.4%).
+tig00000134: analyzed 5246 loci; filtered 0 loci; 5246 loci seen.
+    1294031 genomic sites, of which 192693 were covered by multiple loci (14.9%).
+tig00000135: analyzed 1126 loci; filtered 0 loci; 1126 loci seen.
+    283247 genomic sites, of which 38000 were covered by multiple loci (13.4%).
+tig00000136: analyzed 1034 loci; filtered 0 loci; 1034 loci seen.
+    241512 genomic sites, of which 28561 were covered by multiple loci (11.8%).
+tig00000142: analyzed 5139 loci; filtered 0 loci; 5139 loci seen.
+    1256472 genomic sites, of which 189237 were covered by multiple loci (15.1%).
+tig00000145: analyzed 3049 loci; filtered 0 loci; 3049 loci seen.
+    740016 genomic sites, of which 107107 were covered by multiple loci (14.5%).
+tig00000146: analyzed 2327 loci; filtered 0 loci; 2327 loci seen.
+    569595 genomic sites, of which 85436 were covered by multiple loci (15.0%).
+tig00000148: analyzed 3913 loci; filtered 0 loci; 3913 loci seen.
+    938982 genomic sites, of which 138976 were covered by multiple loci (14.8%).
+tig00000155: analyzed 4526 loci; filtered 0 loci; 4526 loci seen.
+    1112854 genomic sites, of which 165211 were covered by multiple loci (14.8%).
+tig00000158: analyzed 5175 loci; filtered 0 loci; 5175 loci seen.
+    1267538 genomic sites, of which 203180 were covered by multiple loci (16.0%).
+tig00000162: analyzed 4270 loci; filtered 0 loci; 4270 loci seen.
+    1053272 genomic sites, of which 156242 were covered by multiple loci (14.8%).
+tig00000165: analyzed 4638 loci; filtered 0 loci; 4638 loci seen.
+    1104430 genomic sites, of which 168536 were covered by multiple loci (15.3%).
+tig00000171: analyzed 4441 loci; filtered 0 loci; 4441 loci seen.
+    1072003 genomic sites, of which 172679 were covered by multiple loci (16.1%).
+tig00000174: analyzed 268 loci; filtered 0 loci; 268 loci seen.
+    64805 genomic sites, of which 7839 were covered by multiple loci (12.1%).
+tig00000177: analyzed 3985 loci; filtered 0 loci; 3985 loci seen.
+    955900 genomic sites, of which 142965 were covered by multiple loci (15.0%).
+tig00000181: analyzed 2225 loci; filtered 0 loci; 2225 loci seen.
+    552602 genomic sites, of which 86050 were covered by multiple loci (15.6%).
+tig00000182: analyzed 3172 loci; filtered 0 loci; 3172 loci seen.
+    708851 genomic sites, of which 84979 were covered by multiple loci (12.0%).
+tig00000187: analyzed 2107 loci; filtered 0 loci; 2107 loci seen.
+    552857 genomic sites, of which 76080 were covered by multiple loci (13.8%).
+tig00000190: analyzed 2940 loci; filtered 0 loci; 2940 loci seen.
+    658902 genomic sites, of which 87227 were covered by multiple loci (13.2%).
+tig00000192: analyzed 3467 loci; filtered 0 loci; 3467 loci seen.
+    807153 genomic sites, of which 124537 were covered by multiple loci (15.4%).
+tig00000201: analyzed 2118 loci; filtered 0 loci; 2118 loci seen.
+    513678 genomic sites, of which 78724 were covered by multiple loci (15.3%).
+tig00000208: analyzed 1072 loci; filtered 0 loci; 1072 loci seen.
+    261897 genomic sites, of which 39644 were covered by multiple loci (15.1%).
+tig00000213: analyzed 956 loci; filtered 0 loci; 956 loci seen.
+    248619 genomic sites, of which 34751 were covered by multiple loci (14.0%).
+tig00000215: analyzed 1326 loci; filtered 0 loci; 1326 loci seen.
+    334471 genomic sites, of which 48781 were covered by multiple loci (14.6%).
+tig00000217: analyzed 2685 loci; filtered 0 loci; 2685 loci seen.
+    633318 genomic sites, of which 95225 were covered by multiple loci (15.0%).
+tig00000219: analyzed 1854 loci; filtered 0 loci; 1854 loci seen.
+    439504 genomic sites, of which 65478 were covered by multiple loci (14.9%).
+tig00000224: analyzed 2463 loci; filtered 0 loci; 2463 loci seen.
+    645058 genomic sites, of which 77903 were covered by multiple loci (12.1%).
+tig00000235: analyzed 930 loci; filtered 0 loci; 930 loci seen.
+    237626 genomic sites, of which 36484 were covered by multiple loci (15.4%).
+tig00000237: analyzed 829 loci; filtered 0 loci; 829 loci seen.
+    210207 genomic sites, of which 29941 were covered by multiple loci (14.2%).
+tig00000240: analyzed 138 loci; filtered 0 loci; 138 loci seen.
+    35217 genomic sites, of which 2929 were covered by multiple loci (8.3%).
+tig00000241: analyzed 1535 loci; filtered 0 loci; 1535 loci seen.
+    380611 genomic sites, of which 60112 were covered by multiple loci (15.8%).
+tig00000242: analyzed 2735 loci; filtered 0 loci; 2735 loci seen.
+    680893 genomic sites, of which 95344 were covered by multiple loci (14.0%).
+tig00000243: analyzed 1392 loci; filtered 0 loci; 1392 loci seen.
+    349531 genomic sites, of which 45088 were covered by multiple loci (12.9%).
+tig00000245: analyzed 2429 loci; filtered 0 loci; 2429 loci seen.
+    605501 genomic sites, of which 85202 were covered by multiple loci (14.1%).
+tig00000249: analyzed 2574 loci; filtered 0 loci; 2574 loci seen.
+    603890 genomic sites, of which 87852 were covered by multiple loci (14.5%).
+tig00000252: analyzed 152 loci; filtered 0 loci; 152 loci seen.
+    37238 genomic sites, of which 6586 were covered by multiple loci (17.7%).
+tig00000255: analyzed 1107 loci; filtered 0 loci; 1107 loci seen.
+    261878 genomic sites, of which 36981 were covered by multiple loci (14.1%).
+tig00000256: analyzed 1912 loci; filtered 0 loci; 1912 loci seen.
+    413903 genomic sites, of which 50345 were covered by multiple loci (12.2%).
+tig00000258: analyzed 2731 loci; filtered 0 loci; 2731 loci seen.
+    650513 genomic sites, of which 94297 were covered by multiple loci (14.5%).
+tig00000260: analyzed 820 loci; filtered 0 loci; 820 loci seen.
+    208833 genomic sites, of which 26515 were covered by multiple loci (12.7%).
+tig00000261: analyzed 2447 loci; filtered 0 loci; 2447 loci seen.
+    584690 genomic sites, of which 85062 were covered by multiple loci (14.5%).
+tig00000270: analyzed 1005 loci; filtered 0 loci; 1005 loci seen.
+    272285 genomic sites, of which 28487 were covered by multiple loci (10.5%).
+tig00000272: analyzed 1282 loci; filtered 0 loci; 1282 loci seen.
+    306865 genomic sites, of which 43839 were covered by multiple loci (14.3%).
+tig00000277: analyzed 1518 loci; filtered 0 loci; 1518 loci seen.
+    361719 genomic sites, of which 51961 were covered by multiple loci (14.4%).
+tig00000288: analyzed 2095 loci; filtered 0 loci; 2095 loci seen.
+    527553 genomic sites, of which 77523 were covered by multiple loci (14.7%).
+tig00000290: analyzed 2188 loci; filtered 0 loci; 2188 loci seen.
+    490451 genomic sites, of which 73158 were covered by multiple loci (14.9%).
+tig00000291: analyzed 1920 loci; filtered 0 loci; 1920 loci seen.
+    485078 genomic sites, of which 74126 were covered by multiple loci (15.3%).
+tig00000293: analyzed 506 loci; filtered 0 loci; 506 loci seen.
+    121758 genomic sites, of which 9402 were covered by multiple loci (7.7%).
+tig00000295: analyzed 988 loci; filtered 0 loci; 988 loci seen.
+    268349 genomic sites, of which 17041 were covered by multiple loci (6.4%).
+tig00000323: analyzed 1814 loci; filtered 0 loci; 1814 loci seen.
+    442628 genomic sites, of which 59485 were covered by multiple loci (13.4%).
+tig00000325: analyzed 1621 loci; filtered 0 loci; 1621 loci seen.
+    353203 genomic sites, of which 44762 were covered by multiple loci (12.7%).
+tig00000328: analyzed 940 loci; filtered 0 loci; 940 loci seen.
+    241526 genomic sites, of which 18376 were covered by multiple loci (7.6%).
+tig00000330: analyzed 408 loci; filtered 0 loci; 408 loci seen.
+    100387 genomic sites, of which 13505 were covered by multiple loci (13.5%).
+tig00000333: analyzed 1353 loci; filtered 0 loci; 1353 loci seen.
+    318317 genomic sites, of which 51274 were covered by multiple loci (16.1%).
+tig00000336: analyzed 1802 loci; filtered 0 loci; 1802 loci seen.
+    444408 genomic sites, of which 68400 were covered by multiple loci (15.4%).
+tig00000337: analyzed 1839 loci; filtered 0 loci; 1839 loci seen.
+    412585 genomic sites, of which 60228 were covered by multiple loci (14.6%).
+tig00000346: analyzed 1440 loci; filtered 0 loci; 1440 loci seen.
+    326391 genomic sites, of which 43871 were covered by multiple loci (13.4%).
+tig00000347: analyzed 1510 loci; filtered 0 loci; 1510 loci seen.
+    352269 genomic sites, of which 47147 were covered by multiple loci (13.4%).
+tig00000349: analyzed 1735 loci; filtered 0 loci; 1735 loci seen.
+    406157 genomic sites, of which 60146 were covered by multiple loci (14.8%).
+tig00000355: analyzed 1437 loci; filtered 0 loci; 1437 loci seen.
+    312385 genomic sites, of which 37991 were covered by multiple loci (12.2%).
+tig00000356: analyzed 1516 loci; filtered 0 loci; 1516 loci seen.
+    326769 genomic sites, of which 44295 were covered by multiple loci (13.6%).
+tig00000360: analyzed 1497 loci; filtered 0 loci; 1497 loci seen.
+    367960 genomic sites, of which 56193 were covered by multiple loci (15.3%).
+tig00000361: analyzed 1537 loci; filtered 0 loci; 1537 loci seen.
+    365233 genomic sites, of which 56731 were covered by multiple loci (15.5%).
+tig00000362: analyzed 1394 loci; filtered 0 loci; 1394 loci seen.
+    318347 genomic sites, of which 46779 were covered by multiple loci (14.7%).
+tig00000365: analyzed 475 loci; filtered 0 loci; 475 loci seen.
+    112624 genomic sites, of which 17371 were covered by multiple loci (15.4%).
+tig00000373: analyzed 763 loci; filtered 0 loci; 763 loci seen.
+    198433 genomic sites, of which 12636 were covered by multiple loci (6.4%).
+tig00000376: analyzed 1386 loci; filtered 0 loci; 1386 loci seen.
+    314552 genomic sites, of which 55171 were covered by multiple loci (17.5%).
+tig00000383: analyzed 1415 loci; filtered 0 loci; 1415 loci seen.
+    329818 genomic sites, of which 52680 were covered by multiple loci (16.0%).
+tig00000392: analyzed 1182 loci; filtered 0 loci; 1182 loci seen.
+    283037 genomic sites, of which 40087 were covered by multiple loci (14.2%).
+tig00000406: analyzed 1234 loci; filtered 0 loci; 1234 loci seen.
+    288572 genomic sites, of which 47198 were covered by multiple loci (16.4%).
+tig00000407: analyzed 893 loci; filtered 0 loci; 893 loci seen.
+    208830 genomic sites, of which 32665 were covered by multiple loci (15.6%).
+tig00000409: analyzed 892 loci; filtered 0 loci; 892 loci seen.
+    207852 genomic sites, of which 30643 were covered by multiple loci (14.7%).
+tig00000411: analyzed 655 loci; filtered 0 loci; 655 loci seen.
+    167056 genomic sites, of which 15742 were covered by multiple loci (9.4%).
+tig00000419: analyzed 795 loci; filtered 0 loci; 795 loci seen.
+    174878 genomic sites, of which 25016 were covered by multiple loci (14.3%).
+tig00000426: analyzed 615 loci; filtered 0 loci; 615 loci seen.
+    135422 genomic sites, of which 18931 were covered by multiple loci (14.0%).
+tig00000432: analyzed 544 loci; filtered 0 loci; 544 loci seen.
+    148334 genomic sites, of which 9155 were covered by multiple loci (6.2%).
+tig00000437: analyzed 918 loci; filtered 0 loci; 918 loci seen.
+    204065 genomic sites, of which 25318 were covered by multiple loci (12.4%).
+tig00000445: analyzed 471 loci; filtered 0 loci; 471 loci seen.
+    111895 genomic sites, of which 12556 were covered by multiple loci (11.2%).
+tig00000458: analyzed 959 loci; filtered 0 loci; 959 loci seen.
+    231399 genomic sites, of which 36670 were covered by multiple loci (15.8%).
+tig00000466: analyzed 843 loci; filtered 0 loci; 843 loci seen.
+    191252 genomic sites, of which 25050 were covered by multiple loci (13.1%).
+tig00000468: analyzed 393 loci; filtered 0 loci; 393 loci seen.
+    99247 genomic sites, of which 6565 were covered by multiple loci (6.6%).
+tig00000487: analyzed 380 loci; filtered 0 loci; 380 loci seen.
+    91634 genomic sites, of which 10202 were covered by multiple loci (11.1%).
+tig00000488: analyzed 657 loci; filtered 0 loci; 657 loci seen.
+    159204 genomic sites, of which 22050 were covered by multiple loci (13.9%).
+tig00000490: analyzed 738 loci; filtered 0 loci; 738 loci seen.
+    186137 genomic sites, of which 28091 were covered by multiple loci (15.1%).
+tig00000498: analyzed 669 loci; filtered 0 loci; 669 loci seen.
+    170841 genomic sites, of which 22658 were covered by multiple loci (13.3%).
+tig00000499: analyzed 369 loci; filtered 0 loci; 369 loci seen.
+    95946 genomic sites, of which 8024 were covered by multiple loci (8.4%).
+tig00000507: analyzed 546 loci; filtered 0 loci; 546 loci seen.
+    140016 genomic sites, of which 19354 were covered by multiple loci (13.8%).
+tig00000509: analyzed 312 loci; filtered 0 loci; 312 loci seen.
+    81036 genomic sites, of which 4352 were covered by multiple loci (5.4%).
+tig00000511: analyzed 481 loci; filtered 0 loci; 481 loci seen.
+    115510 genomic sites, of which 18507 were covered by multiple loci (16.0%).
+tig00000512: analyzed 535 loci; filtered 0 loci; 535 loci seen.
+    136379 genomic sites, of which 20893 were covered by multiple loci (15.3%).
+tig00000513: analyzed 215 loci; filtered 0 loci; 215 loci seen.
+    59180 genomic sites, of which 3747 were covered by multiple loci (6.3%).
+tig00000515: analyzed 324 loci; filtered 0 loci; 324 loci seen.
+    88967 genomic sites, of which 10773 were covered by multiple loci (12.1%).
+tig00000528: analyzed 198 loci; filtered 0 loci; 198 loci seen.
+    58634 genomic sites, of which 3510 were covered by multiple loci (6.0%).
+tig00000535: analyzed 482 loci; filtered 0 loci; 482 loci seen.
+    115368 genomic sites, of which 20376 were covered by multiple loci (17.7%).
+tig00000541: analyzed 440 loci; filtered 0 loci; 440 loci seen.
+    105115 genomic sites, of which 17249 were covered by multiple loci (16.4%).
+tig00000542: analyzed 37 loci; filtered 0 loci; 37 loci seen.
+    7522 genomic sites, of which 794 were covered by multiple loci (10.6%).
+tig00000552: analyzed 63 loci; filtered 0 loci; 63 loci seen.
+    14958 genomic sites, of which 1048 were covered by multiple loci (7.0%).
+tig00000567: analyzed 340 loci; filtered 0 loci; 340 loci seen.
+    83105 genomic sites, of which 12124 were covered by multiple loci (14.6%).
+tig00000585: analyzed 239 loci; filtered 0 loci; 239 loci seen.
+    51421 genomic sites, of which 7858 were covered by multiple loci (15.3%).
+tig00000586: analyzed 91 loci; filtered 0 loci; 91 loci seen.
+    23965 genomic sites, of which 1978 were covered by multiple loci (8.3%).
+tig00000595: analyzed 147 loci; filtered 0 loci; 147 loci seen.
+    40750 genomic sites, of which 3899 were covered by multiple loci (9.6%).
+tig00000604: analyzed 98 loci; filtered 0 loci; 98 loci seen.
+    29033 genomic sites, of which 1733 were covered by multiple loci (6.0%).
+tig00000621: analyzed 121 loci; filtered 0 loci; 121 loci seen.
+    27019 genomic sites, of which 1466 were covered by multiple loci (5.4%).
+tig00000625: analyzed 16 loci; filtered 0 loci; 16 loci seen.
+    3471 genomic sites, of which 745 were covered by multiple loci (21.5%).
+tig00000673: analyzed 14 loci; filtered 0 loci; 14 loci seen.
+    3720 genomic sites, of which 245 were covered by multiple loci (6.6%).
+tig00000678: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    469 genomic sites, of which 0 were covered by multiple loci (0.0%).
+tig00000705: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    529 genomic sites, of which 0 were covered by multiple loci (0.0%).
+tig00000721: analyzed 47 loci; filtered 0 loci; 47 loci seen.
+    10156 genomic sites, of which 791 were covered by multiple loci (7.8%).
+tig00000732: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    461 genomic sites, of which 0 were covered by multiple loci (0.0%).
+tig00000735: analyzed 41 loci; filtered 0 loci; 41 loci seen.
+    9929 genomic sites, of which 1518 were covered by multiple loci (15.3%).
+tig00000752: analyzed 7 loci; filtered 0 loci; 7 loci seen.
+    1636 genomic sites, of which 8 were covered by multiple loci (0.5%).
+tig00000779: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    426 genomic sites, of which 0 were covered by multiple loci (0.0%).
+tig00000780: analyzed 3 loci; filtered 0 loci; 3 loci seen.
+    782 genomic sites, of which 4 were covered by multiple loci (0.5%).
+tig00000781: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    649 genomic sites, of which 0 were covered by multiple loci (0.0%).
+tig00000793: analyzed 9 loci; filtered 0 loci; 9 loci seen.
+    1570 genomic sites, of which 351 were covered by multiple loci (22.4%).
+tig00000811: analyzed 27 loci; filtered 0 loci; 27 loci seen.
+    9167 genomic sites, of which 722 were covered by multiple loci (7.9%).
+tig00000919: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    552 genomic sites, of which 0 were covered by multiple loci (0.0%).
+tig00000992: analyzed 8 loci; filtered 0 loci; 8 loci seen.
+    2148 genomic sites, of which 4 were covered by multiple loci (0.2%).
+tig00001186: analyzed 2 loci; filtered 0 loci; 2 loci seen.
+    554 genomic sites, of which 0 were covered by multiple loci (0.0%).
+END batch_progress
+
+BEGIN samples_per_loc_prefilters
+# Distribution of valid samples matched to a catalog locus prior to filtering.
+n_samples	n_loci
+1	144792
+2	45148
+3	23769
+4	15894
+5	10253
+6	9095
+7	4900
+8	6318
+9	2741
+10	4632
+11	1639
+12	3964
+13	1262
+14	3589
+15	1145
+16	3483
+17	1137
+18	3002
+19	1028
+20	2660
+21	1021
+22	2234
+23	987
+24	2013
+25	994
+26	1794
+27	907
+28	1596
+29	895
+30	1412
+31	795
+32	1245
+33	814
+34	1135
+35	823
+36	1051
+37	762
+38	960
+39	796
+40	889
+41	733
+42	820
+43	700
+44	741
+45	684
+46	674
+47	596
+48	677
+49	600
+50	583
+51	600
+52	607
+53	533
+54	568
+55	476
+56	512
+57	522
+58	481
+59	506
+60	461
+61	457
+62	437
+63	459
+64	469
+65	438
+66	431
+67	421
+68	426
+69	393
+70	392
+71	403
+72	418
+73	383
+74	399
+75	385
+76	362
+77	366
+78	376
+79	390
+80	327
+81	345
+82	360
+83	369
+84	328
+85	345
+86	324
+87	325
+88	341
+89	324
+90	307
+91	333
+92	302
+93	302
+94	300
+95	301
+96	307
+97	312
+98	278
+99	292
+100	294
+101	301
+102	312
+103	250
+104	257
+105	281
+106	268
+107	257
+108	260
+109	287
+110	225
+111	240
+112	274
+113	235
+114	233
+115	274
+116	281
+117	247
+118	237
+119	234
+120	243
+121	223
+122	232
+123	246
+124	235
+125	212
+126	241
+127	250
+128	219
+129	249
+130	236
+131	218
+132	215
+133	233
+134	204
+135	219
+136	199
+137	254
+138	202
+139	204
+140	205
+141	211
+142	202
+143	239
+144	207
+145	206
+146	226
+147	185
+148	205
+149	192
+150	202
+151	224
+152	194
+153	195
+154	188
+155	175
+156	202
+157	198
+158	195
+159	194
+160	198
+161	181
+162	199
+163	193
+164	192
+165	186
+166	210
+167	174
+168	183
+169	197
+170	196
+171	190
+172	176
+173	198
+174	194
+175	170
+176	183
+177	191
+178	188
+179	211
+180	192
+181	187
+182	193
+183	193
+184	177
+185	163
+186	176
+187	178
+188	213
+189	181
+190	172
+191	206
+192	194
+193	199
+194	171
+195	203
+196	182
+197	170
+198	203
+199	187
+200	194
+201	213
+202	189
+203	199
+204	208
+205	162
+206	214
+207	187
+208	192
+209	202
+210	181
+211	187
+212	203
+213	185
+214	230
+215	191
+216	177
+217	178
+218	214
+219	202
+220	194
+221	219
+222	195
+223	208
+224	214
+225	189
+226	193
+227	202
+228	200
+229	201
+230	191
+231	207
+232	201
+233	201
+234	174
+235	226
+236	183
+237	200
+238	199
+239	207
+240	220
+241	192
+242	190
+243	232
+244	185
+245	206
+246	221
+247	230
+248	192
+249	221
+250	241
+251	222
+252	224
+253	204
+254	186
+255	242
+256	198
+257	221
+258	240
+259	194
+260	212
+261	183
+262	204
+263	243
+264	212
+265	229
+266	245
+267	218
+268	211
+269	222
+270	240
+271	218
+272	214
+273	225
+274	218
+275	209
+276	217
+277	225
+278	220
+279	228
+280	199
+281	216
+282	198
+283	237
+284	235
+285	214
+286	222
+287	197
+288	227
+289	226
+290	216
+291	226
+292	230
+293	214
+294	210
+295	233
+296	250
+297	243
+298	257
+299	232
+300	234
+301	280
+302	249
+303	214
+304	196
+305	230
+306	217
+307	255
+308	271
+309	251
+310	244
+311	229
+312	231
+313	254
+314	263
+315	238
+316	256
+317	252
+318	272
+319	244
+320	269
+321	285
+322	278
+323	283
+324	272
+325	288
+326	280
+327	264
+328	287
+329	241
+330	304
+331	302
+332	268
+333	325
+334	279
+335	287
+336	325
+337	337
+338	330
+339	324
+340	356
+341	356
+342	378
+343	411
+344	409
+345	443
+346	491
+347	507
+348	543
+349	578
+350	680
+351	685
+352	762
+353	854
+354	992
+355	1973
+END samples_per_loc_prefilters
+
+BEGIN missing_samples_per_loc_prefilters
+# Distribution of missing samples for each catalog locus prior to filtering.
+# Absent samples at locus	Count
+0	1973
+1	992
+2	854
+3	762
+4	685
+5	680
+6	578
+7	543
+8	507
+9	491
+10	443
+11	409
+12	411
+13	378
+14	356
+15	356
+16	324
+17	330
+18	337
+19	325
+20	287
+21	279
+22	325
+23	268
+24	302
+25	304
+26	241
+27	287
+28	264
+29	280
+30	288
+31	272
+32	283
+33	278
+34	285
+35	269
+36	244
+37	272
+38	252
+39	256
+40	238
+41	263
+42	254
+43	231
+44	229
+45	244
+46	251
+47	271
+48	255
+49	217
+50	230
+51	196
+52	214
+53	249
+54	280
+55	234
+56	232
+57	257
+58	243
+59	250
+60	233
+61	210
+62	214
+63	230
+64	226
+65	216
+66	226
+67	227
+68	197
+69	222
+70	214
+71	235
+72	237
+73	198
+74	216
+75	199
+76	228
+77	220
+78	225
+79	217
+80	209
+81	218
+82	225
+83	214
+84	218
+85	240
+86	222
+87	211
+88	218
+89	245
+90	229
+91	212
+92	243
+93	204
+94	183
+95	212
+96	194
+97	240
+98	221
+99	198
+100	242
+101	186
+102	204
+103	224
+104	222
+105	241
+106	221
+107	192
+108	230
+109	221
+110	206
+111	185
+112	232
+113	190
+114	192
+115	220
+116	207
+117	199
+118	200
+119	183
+120	226
+121	174
+122	201
+123	201
+124	207
+125	191
+126	201
+127	200
+128	202
+129	193
+130	189
+131	214
+132	208
+133	195
+134	219
+135	194
+136	202
+137	214
+138	178
+139	177
+140	191
+141	230
+142	185
+143	203
+144	187
+145	181
+146	202
+147	192
+148	187
+149	214
+150	162
+151	208
+152	199
+153	189
+154	213
+155	194
+156	187
+157	203
+158	170
+159	182
+160	203
+161	171
+162	199
+163	194
+164	206
+165	172
+166	181
+167	213
+168	178
+169	176
+170	163
+171	177
+172	193
+173	193
+174	187
+175	192
+176	211
+177	188
+178	191
+179	183
+180	170
+181	194
+182	198
+183	176
+184	190
+185	196
+186	197
+187	183
+188	174
+189	210
+190	186
+191	192
+192	193
+193	199
+194	181
+195	198
+196	194
+197	195
+198	198
+199	202
+200	175
+201	188
+202	195
+203	194
+204	224
+205	202
+206	192
+207	205
+208	185
+209	226
+210	206
+211	207
+212	239
+213	202
+214	211
+215	205
+216	204
+217	202
+218	254
+219	199
+220	219
+221	204
+222	233
+223	215
+224	218
+225	236
+226	249
+227	219
+228	250
+229	241
+230	212
+231	235
+232	246
+233	232
+234	223
+235	243
+236	234
+237	237
+238	247
+239	281
+240	274
+241	233
+242	235
+243	274
+244	240
+245	225
+246	287
+247	260
+248	257
+249	268
+250	281
+251	257
+252	250
+253	312
+254	301
+255	294
+256	292
+257	278
+258	312
+259	307
+260	301
+261	300
+262	302
+263	302
+264	333
+265	307
+266	324
+267	341
+268	325
+269	324
+270	345
+271	328
+272	369
+273	360
+274	345
+275	327
+276	390
+277	376
+278	366
+279	362
+280	385
+281	399
+282	383
+283	418
+284	403
+285	392
+286	393
+287	426
+288	421
+289	431
+290	438
+291	469
+292	459
+293	437
+294	457
+295	461
+296	506
+297	481
+298	522
+299	512
+300	476
+301	568
+302	533
+303	607
+304	600
+305	583
+306	600
+307	677
+308	596
+309	674
+310	684
+311	741
+312	700
+313	820
+314	733
+315	889
+316	796
+317	960
+318	762
+319	1051
+320	823
+321	1135
+322	814
+323	1245
+324	795
+325	1412
+326	895
+327	1596
+328	907
+329	1794
+330	994
+331	2013
+332	987
+333	2234
+334	1021
+335	2660
+336	1028
+337	3002
+338	1137
+339	3483
+340	1145
+341	3589
+342	1262
+343	3964
+344	1639
+345	4632
+346	2741
+347	6318
+348	4900
+349	9095
+350	10253
+351	15894
+352	23769
+353	45148
+354	144792
+END missing_samples_per_loc_prefilters
+
+BEGIN snps_per_loc_prefilters
+# Distribution of the number of SNPs per catalog locus prior to filtering.
+n_snps	n_loci
+0	264702
+1	14931
+2	10197
+3	8233
+4	6891
+5	6160
+6	5511
+7	5031
+8	4667
+9	4205
+10	4059
+11	3660
+12	3372
+13	3071
+14	2980
+15	2741
+16	2579
+17	2313
+18	2329
+19	2120
+20	1945
+21	1929
+22	1843
+23	1686
+24	1655
+25	1520
+26	1470
+27	1377
+28	1217
+29	1263
+30	1116
+31	1116
+32	1060
+33	1002
+34	929
+35	891
+36	886
+37	815
+38	822
+39	818
+40	753
+41	712
+42	718
+43	651
+44	651
+45	610
+46	621
+47	592
+48	562
+49	588
+50	510
+51	522
+52	510
+53	436
+54	440
+55	445
+56	417
+57	403
+58	401
+59	389
+60	406
+61	358
+62	366
+63	335
+64	349
+65	291
+66	293
+67	274
+68	304
+69	232
+70	261
+71	256
+72	251
+73	217
+74	197
+75	203
+76	211
+77	189
+78	178
+79	179
+80	162
+81	162
+82	144
+83	130
+84	128
+85	123
+86	113
+87	112
+88	91
+89	78
+90	78
+91	78
+92	69
+93	51
+94	46
+95	48
+96	46
+97	45
+98	37
+99	22
+100	37
+101	37
+102	24
+103	14
+104	30
+105	15
+106	15
+107	10
+108	10
+109	7
+110	5
+111	10
+112	5
+113	8
+114	8
+115	4
+116	2
+117	4
+118	1
+119	5
+120	3
+121	2
+122	2
+123	1
+124	1
+126	1
+128	1
+129	1
+130	1
+132	2
+138	1
+139	1
+140	1
+END snps_per_loc_prefilters
+
+BEGIN samples_per_loc_postfilters
+# Distribution of valid samples matched to a catalog locus after filtering.
+n_samples	n_loci
+1	144792
+2	45148
+3	23769
+4	15894
+5	10253
+6	9095
+7	4900
+8	6318
+9	2741
+10	4632
+11	1639
+12	3964
+13	1262
+14	3589
+15	1145
+16	3483
+17	1137
+18	3002
+19	1028
+20	2660
+21	1021
+22	2234
+23	987
+24	2013
+25	994
+26	1794
+27	907
+28	1596
+29	895
+30	1412
+31	795
+32	1245
+33	814
+34	1135
+35	823
+36	1051
+37	762
+38	960
+39	796
+40	889
+41	733
+42	820
+43	700
+44	741
+45	684
+46	674
+47	596
+48	677
+49	600
+50	583
+51	600
+52	607
+53	533
+54	568
+55	476
+56	512
+57	522
+58	481
+59	506
+60	461
+61	457
+62	437
+63	459
+64	469
+65	438
+66	431
+67	421
+68	426
+69	393
+70	392
+71	403
+72	418
+73	383
+74	399
+75	385
+76	362
+77	366
+78	376
+79	390
+80	327
+81	345
+82	360
+83	369
+84	328
+85	345
+86	324
+87	325
+88	341
+89	324
+90	307
+91	333
+92	302
+93	302
+94	300
+95	301
+96	307
+97	312
+98	278
+99	292
+100	294
+101	301
+102	312
+103	250
+104	257
+105	281
+106	268
+107	257
+108	260
+109	287
+110	225
+111	240
+112	274
+113	235
+114	233
+115	274
+116	281
+117	247
+118	237
+119	234
+120	243
+121	223
+122	232
+123	246
+124	235
+125	212
+126	241
+127	250
+128	219
+129	249
+130	236
+131	218
+132	215
+133	233
+134	204
+135	219
+136	199
+137	254
+138	202
+139	204
+140	205
+141	211
+142	202
+143	239
+144	207
+145	206
+146	226
+147	185
+148	205
+149	192
+150	202
+151	224
+152	194
+153	195
+154	188
+155	175
+156	202
+157	198
+158	195
+159	194
+160	198
+161	181
+162	199
+163	193
+164	192
+165	186
+166	210
+167	174
+168	183
+169	197
+170	196
+171	190
+172	176
+173	198
+174	194
+175	170
+176	183
+177	191
+178	188
+179	211
+180	192
+181	187
+182	193
+183	193
+184	177
+185	163
+186	176
+187	178
+188	213
+189	181
+190	172
+191	206
+192	194
+193	199
+194	171
+195	203
+196	182
+197	170
+198	203
+199	187
+200	194
+201	213
+202	189
+203	199
+204	208
+205	162
+206	214
+207	187
+208	192
+209	202
+210	181
+211	187
+212	203
+213	185
+214	230
+215	191
+216	177
+217	178
+218	214
+219	202
+220	194
+221	219
+222	195
+223	208
+224	214
+225	189
+226	193
+227	202
+228	200
+229	201
+230	191
+231	207
+232	201
+233	201
+234	174
+235	226
+236	183
+237	200
+238	199
+239	207
+240	220
+241	192
+242	190
+243	232
+244	185
+245	206
+246	221
+247	230
+248	192
+249	221
+250	241
+251	222
+252	224
+253	204
+254	186
+255	242
+256	198
+257	221
+258	240
+259	194
+260	212
+261	183
+262	204
+263	243
+264	212
+265	229
+266	245
+267	218
+268	211
+269	222
+270	240
+271	218
+272	214
+273	225
+274	218
+275	209
+276	217
+277	225
+278	220
+279	228
+280	199
+281	216
+282	198
+283	237
+284	235
+285	214
+286	222
+287	197
+288	227
+289	226
+290	216
+291	226
+292	230
+293	214
+294	210
+295	233
+296	250
+297	243
+298	257
+299	232
+300	234
+301	280
+302	249
+303	214
+304	196
+305	230
+306	217
+307	255
+308	271
+309	251
+310	244
+311	229
+312	231
+313	254
+314	263
+315	238
+316	256
+317	252
+318	272
+319	244
+320	269
+321	285
+322	278
+323	283
+324	272
+325	288
+326	280
+327	264
+328	287
+329	241
+330	304
+331	302
+332	268
+333	325
+334	279
+335	287
+336	325
+337	337
+338	330
+339	324
+340	356
+341	356
+342	378
+343	411
+344	409
+345	443
+346	491
+347	507
+348	543
+349	578
+350	680
+351	685
+352	762
+353	854
+354	992
+355	1973
+END samples_per_loc_postfilters
+
+BEGIN missing_samples_per_loc_postfilters
+# Distribution of missing samples for each catalog locus after filtering.
+# Absent samples at locus	Count
+0	1973
+1	992
+2	854
+3	762
+4	685
+5	680
+6	578
+7	543
+8	507
+9	491
+10	443
+11	409
+12	411
+13	378
+14	356
+15	356
+16	324
+17	330
+18	337
+19	325
+20	287
+21	279
+22	325
+23	268
+24	302
+25	304
+26	241
+27	287
+28	264
+29	280
+30	288
+31	272
+32	283
+33	278
+34	285
+35	269
+36	244
+37	272
+38	252
+39	256
+40	238
+41	263
+42	254
+43	231
+44	229
+45	244
+46	251
+47	271
+48	255
+49	217
+50	230
+51	196
+52	214
+53	249
+54	280
+55	234
+56	232
+57	257
+58	243
+59	250
+60	233
+61	210
+62	214
+63	230
+64	226
+65	216
+66	226
+67	227
+68	197
+69	222
+70	214
+71	235
+72	237
+73	198
+74	216
+75	199
+76	228
+77	220
+78	225
+79	217
+80	209
+81	218
+82	225
+83	214
+84	218
+85	240
+86	222
+87	211
+88	218
+89	245
+90	229
+91	212
+92	243
+93	204
+94	183
+95	212
+96	194
+97	240
+98	221
+99	198
+100	242
+101	186
+102	204
+103	224
+104	222
+105	241
+106	221
+107	192
+108	230
+109	221
+110	206
+111	185
+112	232
+113	190
+114	192
+115	220
+116	207
+117	199
+118	200
+119	183
+120	226
+121	174
+122	201
+123	201
+124	207
+125	191
+126	201
+127	200
+128	202
+129	193
+130	189
+131	214
+132	208
+133	195
+134	219
+135	194
+136	202
+137	214
+138	178
+139	177
+140	191
+141	230
+142	185
+143	203
+144	187
+145	181
+146	202
+147	192
+148	187
+149	214
+150	162
+151	208
+152	199
+153	189
+154	213
+155	194
+156	187
+157	203
+158	170
+159	182
+160	203
+161	171
+162	199
+163	194
+164	206
+165	172
+166	181
+167	213
+168	178
+169	176
+170	163
+171	177
+172	193
+173	193
+174	187
+175	192
+176	211
+177	188
+178	191
+179	183
+180	170
+181	194
+182	198
+183	176
+184	190
+185	196
+186	197
+187	183
+188	174
+189	210
+190	186
+191	192
+192	193
+193	199
+194	181
+195	198
+196	194
+197	195
+198	198
+199	202
+200	175
+201	188
+202	195
+203	194
+204	224
+205	202
+206	192
+207	205
+208	185
+209	226
+210	206
+211	207
+212	239
+213	202
+214	211
+215	205
+216	204
+217	202
+218	254
+219	199
+220	219
+221	204
+222	233
+223	215
+224	218
+225	236
+226	249
+227	219
+228	250
+229	241
+230	212
+231	235
+232	246
+233	232
+234	223
+235	243
+236	234
+237	237
+238	247
+239	281
+240	274
+241	233
+242	235
+243	274
+244	240
+245	225
+246	287
+247	260
+248	257
+249	268
+250	281
+251	257
+252	250
+253	312
+254	301
+255	294
+256	292
+257	278
+258	312
+259	307
+260	301
+261	300
+262	302
+263	302
+264	333
+265	307
+266	324
+267	341
+268	325
+269	324
+270	345
+271	328
+272	369
+273	360
+274	345
+275	327
+276	390
+277	376
+278	366
+279	362
+280	385
+281	399
+282	383
+283	418
+284	403
+285	392
+286	393
+287	426
+288	421
+289	431
+290	438
+291	469
+292	459
+293	437
+294	457
+295	461
+296	506
+297	481
+298	522
+299	512
+300	476
+301	568
+302	533
+303	607
+304	600
+305	583
+306	600
+307	677
+308	596
+309	674
+310	684
+311	741
+312	700
+313	820
+314	733
+315	889
+316	796
+317	960
+318	762
+319	1051
+320	823
+321	1135
+322	814
+323	1245
+324	795
+325	1412
+326	895
+327	1596
+328	907
+329	1794
+330	994
+331	2013
+332	987
+333	2234
+334	1021
+335	2660
+336	1028
+337	3002
+338	1137
+339	3483
+340	1145
+341	3589
+342	1262
+343	3964
+344	1639
+345	4632
+346	2741
+347	6318
+348	4900
+349	9095
+350	10253
+351	15894
+352	23769
+353	45148
+354	144792
+END missing_samples_per_loc_postfilters
+
+BEGIN snps_per_loc_postfilters
+# Distribution of the number of SNPs per catalog locus (after filtering).
+n_snps	n_loci
+0	264703
+1	138722
+END snps_per_loc_postfilters
