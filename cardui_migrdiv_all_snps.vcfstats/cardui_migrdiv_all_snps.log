@@ -1,0 +1,14 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf cardui_migrdiv_all_snps.vcf.gz
+	--missing-indv
+	--out cardui_migrdiv_all_snps
+
+Using zlib version: 1.2.11
+After filtering, kept 355 out of 355 Individuals
+Outputting Individual Missingness
+After filtering, kept 138553 out of a possible 138553 Sites
+Run Time = 9.00 seconds
