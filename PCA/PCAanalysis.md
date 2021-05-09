@@ -21,3 +21,23 @@ Here we attempt to correct for LD, removing SNPs, where r^2>0.2 on 50Kb overlapp
 LD pruning introduced minimal change in marker positions, several individuals are more spaced apart.
 
 We will continue exploring this graph.
+
+Samples from Northern Hemisphere are overlapping with majority of the rest, on the following graph we don't show them (NOTE: it's purely for visualization purposes, eigenvalues stay the same):
+![](PCA_fullSFS_noNHE.png)
+
+On this plot outliers from SH are even more obvious. We return to the table to extract exact IDs:
+TBA
+
+Let's explore "Hemisphere's" separately, starting from Southern Hemisphere:
+![](PCA_fullSFS_SouthPC123.png)
+
+We color plots by sampling location for further investigation:
+![](PCA_fullSFS_SouthLocs.png)
+
+Repeat the same plotting for Northern Hemisphere:
+![](PCA_fullSFS_North.png)
+![](PCA_fullSFS_NorthLocs.png)
+
+
+No structure is observed in Northern Hemisphere sample set, which agrees with hypothesis of shared migratory cycle.
+We zoom in to the center of plot space, ignoring three outliers.
