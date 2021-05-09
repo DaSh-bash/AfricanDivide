@@ -23,6 +23,7 @@ LD pruning introduced minimal change in marker positions, several individuals ar
 We will continue exploring this graph.
 
 Samples from Northern Hemisphere are overlapping with majority of the rest, on the following graph we don't show them (NOTE: it's purely for visualization purposes, eigenvalues stay the same):
+
 ![](PCA_fullSFS_noNHE.png)
 
 On this plot outliers from SH are even more obvious. We return to the table to extract exact IDs:
@@ -40,4 +41,19 @@ Repeat the same plotting for Northern Hemisphere:
 
 
 No structure is observed in Northern Hemisphere sample set, which agrees with hypothesis of shared migratory cycle.
-We zoom in to the center of plot space, ignoring three outliers.
+
+<span style="color:darkred">Exploration of this graph is problematic, due to color scheme. Categorial color schemes typically don't allow for more then dozen of colors, cubehelix was temporary selected. Possible solution: sequential color scheme based on location proximity.</span>
+
+Let's explore sample set from Europe to compare with Megan's dataset. We zoom in to the center of plot space, ignoring three outliers.
+(color palette: icefire)
+
+![](PCA_fullSFS_NorthEzoom.png)
+
+
+**Exploring population structure in other MAF classes**
+Here is briefly check population structure based on rare variants (MAF: 0.001-0.010, MAC: 1-4)
+
+![](PCA_rare_all.png)
+
+And zoomed w/o outliers:
+![](PCA_rare_noLD_outlremoved.png)
