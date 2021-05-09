@@ -1,0 +1,1 @@
+plink --vcf $VCF --double-id --allow-extra-chr --set-missing-var-ids @:# --extract vanessa.LD.prune.in --make-bed --pca --out vanessa.noLD
